@@ -1,0 +1,1 @@
+Mon projet permet à plusieurs utilisateurs de travailler sur différentes fonctionnalités, de gérer des branches et de résoudre des conflits  
